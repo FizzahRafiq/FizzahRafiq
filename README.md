@@ -1,9 +1,9 @@
-# 💻 Fizzah Rafiq
+
 
 ## Computer Science Undergraduate 🎓 
 
 📍 Rawalpindi, Pakistan  
-📧 fizzahrafiq5@gmail.com  
+📧 [fizzahrafiq5@gmail.com](mailto:fizzahrafiq5@gmail.com)  
 
 Passionate about building **cozy, narrative-driven games** and **visually engaging, user-friendly websites**. Currently interested in learning Unity, C#, and modern frontend technologies while pursuing my CS degree at Fatima Jinnah Women University.
 
@@ -70,11 +70,8 @@ An entry-level software developer with a focus on software and game development.
 
 ---
 
-## 📫 Let's Connect
-
-- 📧 Email: fizzahrafiq5@gmail.com
-- 🔗 LinkedIn: *[www.linkedin.com/in/fizzah-rafiq-12ba87400]*
-
+- 📧 Email: [fizzahrafiq5@gmail.com](mailto:fizzahrafiq5@gmail.com)
+- 🔗 LinkedIn: [fizzah-rafiq](https://www.linkedin.com/in/fizzah-rafiq-12ba87400)
 
 ---
 
