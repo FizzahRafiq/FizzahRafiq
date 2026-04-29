@@ -4,6 +4,7 @@
 
 📍 Rawalpindi, Pakistan  
 📧 [fizzahrafiq5@gmail.com](mailto:fizzahrafiq5@gmail.com)  
+🔗 LinkedIn: [fizzah-rafiq](https://www.linkedin.com/in/fizzah-rafiq-12ba87400)
 
 Passionate about building **cozy, narrative-driven games** and **visually engaging, user-friendly websites**. Currently interested in learning Unity, C#, and modern frontend technologies while pursuing my CS degree at Fatima Jinnah Women University.
 
@@ -68,11 +69,6 @@ An entry-level software developer with a focus on software and game development.
 
 > *"Make whatever weird thing pops into our heads."*
 
----
 
-- 📧 Email: [fizzahrafiq5@gmail.com](mailto:fizzahrafiq5@gmail.com)
-- 🔗 LinkedIn: [fizzah-rafiq](https://www.linkedin.com/in/fizzah-rafiq-12ba87400)
-
----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FizzahRafiq&show_icons=true&theme=default)
